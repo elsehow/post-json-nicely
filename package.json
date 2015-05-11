@@ -1,0 +1,24 @@
+{
+  "name": "post-json-nicely",
+  "version": "0.0.4",
+  "description": "a preferrable api for posting json using jquery",
+  "main": "post-json-nicely.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/elsehow/post-json-nicely"
+  },
+  "keywords": [
+    "jquery",
+    "post",
+    "json"
+  ],
+  "author": "elsehow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elsehow/post-json-nicely/issues"
+  },
+  "homepage": "https://github.com/elsehow/post-json-nicely"
+}
