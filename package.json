@@ -1,6 +1,6 @@
 {
   "name": "post-json-nicely",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "a preferrable api for posting json using jquery",
   "main": "post-json-nicely.js",
   "scripts": {
